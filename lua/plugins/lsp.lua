@@ -166,6 +166,7 @@ return {
 			-- jdtls = jdtls_config,
 			jdtls = {},
 			-- tsserver = {},
+			astro = {},
 			html = { filetypes = { "html", "twig", "hbs" } },
 			cssls = {},
 			tailwindcss = {},
@@ -173,6 +174,7 @@ return {
 			sqlls = {},
 			jsonls = {},
 			yamlls = {},
+			dartls = {},
 
 			lua_ls = {
 				-- cmd = {...},
