@@ -174,7 +174,6 @@ return {
 			sqlls = {},
 			jsonls = {},
 			yamlls = {},
-			dartls = {},
 
 			lua_ls = {
 				-- cmd = {...},
