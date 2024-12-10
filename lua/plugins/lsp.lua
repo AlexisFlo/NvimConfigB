@@ -172,7 +172,7 @@ return {
 			tailwindcss = {},
 			dockerls = {},
 			sqlls = {},
-			jsonls = {},
+			jsonls = { filetypes = { "json", "jsonc" } },
 			yamlls = {},
 
 			lua_ls = {
