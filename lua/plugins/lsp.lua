@@ -171,6 +171,7 @@ return {
 			cssls = {},
 			tailwindcss = {},
 			dockerls = {},
+			rust_analyzer = {},
 			sqlls = {},
 			jsonls = { filetypes = { "json", "jsonc" } },
 			yamlls = {},
